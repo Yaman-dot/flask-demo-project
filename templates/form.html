@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heart Disease Predictor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='form_style.css') }}">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">HeartPredict<span>.</span></div>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/donut">Donut</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Heart Disease Predictor</h1>
+        <p>Enter your health details below to get an instant prediction.</p>
+
+        <form action="/predict" method="POST" class="prediction-form">
+          <div class="input-group">
+            <label for="age">Age</label>
+            <input type="number" name="age" id="age" placeholder="e.g., 45" required>
+          </div>
+          <div class="input-group">
+            <label for="bp">Blood Pressure</label>
+            <input type="number" name="bp" id="bp" placeholder="e.g., 120" required>
+          </div>
+          <div class="input-group">
+            <label for="chol">Cholesterol</label>
+            <input type="number" name="chol" id="chol" placeholder="e.g., 230" required>
+          </div>
+          <div class="input-group">
+            <label for="hr">Maximum Heart Rate</label>
+            <input type="number" name="hr" id="hr" placeholder="e.g., 150" required>
+          </div>
+          <button type="submit">Predict</button>
+        </form>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

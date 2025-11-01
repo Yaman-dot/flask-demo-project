@@ -1,0 +1,304 @@
+﻿Age,blood pressure,cholesterol,maximum heart rate,target
+63,145,233,150,No Heart Disease
+67,160,286,108,Heart Disease
+67,120,229,129,Heart Disease
+37,130,250,187,No Heart Disease
+41,130,204,172,No Heart Disease
+56,120,236,178,No Heart Disease
+62,140,268,160,Heart Disease
+57,120,354,163,No Heart Disease
+63,130,254,147,Heart Disease
+53,140,203,155,Heart Disease
+57,140,192,148,No Heart Disease
+56,140,294,153,No Heart Disease
+56,130,256,142,Heart Disease
+44,120,263,173,No Heart Disease
+52,172,199,162,No Heart Disease
+57,150,168,174,No Heart Disease
+48,110,229,168,Heart Disease
+54,140,239,160,No Heart Disease
+48,130,275,139,No Heart Disease
+49,130,266,171,No Heart Disease
+64,110,211,144,No Heart Disease
+58,150,283,162,No Heart Disease
+58,120,284,160,Heart Disease
+58,132,224,173,Heart Disease
+60,130,206,132,Heart Disease
+50,120,219,158,No Heart Disease
+58,120,340,172,No Heart Disease
+66,150,226,114,No Heart Disease
+43,150,247,171,No Heart Disease
+40,110,167,114,Heart Disease
+69,140,239,151,No Heart Disease
+60,117,230,160,Heart Disease
+64,140,335,158,Heart Disease
+59,135,234,161,No Heart Disease
+44,130,233,179,No Heart Disease
+42,140,226,178,No Heart Disease
+43,120,177,120,Heart Disease
+57,150,276,112,Heart Disease
+55,132,353,132,Heart Disease
+61,150,243,137,No Heart Disease
+65,150,225,114,Heart Disease
+40,140,199,178,No Heart Disease
+71,160,302,162,No Heart Disease
+59,150,212,157,No Heart Disease
+61,130,330,169,Heart Disease
+58,112,230,165,Heart Disease
+51,110,175,123,No Heart Disease
+50,150,243,128,Heart Disease
+65,140,417,157,No Heart Disease
+53,130,197,152,No Heart Disease
+41,105,198,168,No Heart Disease
+65,120,177,140,No Heart Disease
+44,112,290,153,Heart Disease
+44,130,219,188,No Heart Disease
+60,130,253,144,Heart Disease
+54,124,266,109,Heart Disease
+50,140,233,163,Heart Disease
+41,110,172,158,Heart Disease
+54,125,273,152,No Heart Disease
+51,125,213,125,No Heart Disease
+51,130,305,142,Heart Disease
+46,142,177,160,No Heart Disease
+58,128,216,131,Heart Disease
+54,135,304,170,No Heart Disease
+54,120,188,113,Heart Disease
+60,145,282,142,Heart Disease
+60,140,185,155,Heart Disease
+54,150,232,165,No Heart Disease
+59,170,326,140,Heart Disease
+46,150,231,147,Heart Disease
+65,155,269,148,No Heart Disease
+67,125,254,163,Heart Disease
+62,120,267,99,Heart Disease
+65,110,248,158,Heart Disease
+44,110,197,177,Heart Disease
+65,160,360,151,No Heart Disease
+60,125,258,141,Heart Disease
+51,140,308,142,No Heart Disease
+48,130,245,180,No Heart Disease
+58,150,270,111,Heart Disease
+45,104,208,148,No Heart Disease
+53,130,264,143,No Heart Disease
+39,140,321,182,No Heart Disease
+68,180,274,150,Heart Disease
+52,120,325,172,No Heart Disease
+44,140,235,180,No Heart Disease
+47,138,257,156,No Heart Disease
+53,128,216,115,No Heart Disease
+53,138,234,160,No Heart Disease
+51,130,256,149,No Heart Disease
+66,120,302,151,No Heart Disease
+62,160,164,145,Heart Disease
+62,130,231,146,No Heart Disease
+44,108,141,175,No Heart Disease
+63,135,252,172,No Heart Disease
+52,128,255,161,Heart Disease
+59,110,239,142,Heart Disease
+60,150,258,157,Heart Disease
+52,134,201,158,No Heart Disease
+48,122,222,186,No Heart Disease
+45,115,260,185,No Heart Disease
+34,118,182,174,No Heart Disease
+57,128,303,159,No Heart Disease
+71,110,265,130,No Heart Disease
+49,120,188,139,Heart Disease
+54,108,309,156,No Heart Disease
+59,140,177,162,Heart Disease
+57,128,229,150,Heart Disease
+61,120,260,140,Heart Disease
+39,118,219,140,Heart Disease
+61,145,307,146,Heart Disease
+56,125,249,144,Heart Disease
+52,118,186,190,No Heart Disease
+43,132,341,136,Heart Disease
+62,130,263,97,Heart Disease
+41,135,203,132,No Heart Disease
+58,140,211,165,No Heart Disease
+35,138,183,182,No Heart Disease
+63,130,330,132,Heart Disease
+65,135,254,127,Heart Disease
+48,130,256,150,Heart Disease
+63,150,407,154,Heart Disease
+51,100,222,143,No Heart Disease
+55,140,217,111,Heart Disease
+65,138,282,174,Heart Disease
+45,130,234,175,No Heart Disease
+56,200,288,133,Heart Disease
+54,110,239,126,Heart Disease
+44,120,220,170,No Heart Disease
+62,124,209,163,No Heart Disease
+54,120,258,147,No Heart Disease
+51,94,227,154,No Heart Disease
+29,130,204,202,No Heart Disease
+51,140,261,186,No Heart Disease
+43,122,213,165,No Heart Disease
+55,135,250,161,No Heart Disease
+70,145,174,125,Heart Disease
+62,120,281,103,Heart Disease
+35,120,198,130,Heart Disease
+51,125,245,166,No Heart Disease
+59,140,221,164,No Heart Disease
+59,170,288,159,Heart Disease
+52,128,205,184,No Heart Disease
+64,125,309,131,Heart Disease
+58,105,240,154,No Heart Disease
+47,108,243,152,Heart Disease
+57,165,289,124,Heart Disease
+41,112,250,179,No Heart Disease
+45,128,308,170,No Heart Disease
+60,102,318,160,No Heart Disease
+52,152,298,178,No Heart Disease
+42,102,265,122,No Heart Disease
+67,115,564,160,No Heart Disease
+55,160,289,145,Heart Disease
+64,120,246,96,Heart Disease
+70,130,322,109,Heart Disease
+51,140,299,173,Heart Disease
+58,125,300,171,Heart Disease
+60,140,293,170,Heart Disease
+68,118,277,151,No Heart Disease
+46,101,197,156,No Heart Disease
+77,125,304,162,Heart Disease
+54,110,214,158,No Heart Disease
+58,100,248,122,No Heart Disease
+48,124,255,175,No Heart Disease
+57,132,207,168,No Heart Disease
+52,138,223,169,No Heart Disease
+54,132,288,159,No Heart Disease
+35,126,282,156,Heart Disease
+45,112,160,138,No Heart Disease
+70,160,269,112,Heart Disease
+53,142,226,111,No Heart Disease
+59,174,249,143,Heart Disease
+62,140,394,157,No Heart Disease
+64,145,212,132,Heart Disease
+57,152,274,88,Heart Disease
+52,108,233,147,No Heart Disease
+56,132,184,105,Heart Disease
+43,130,315,162,No Heart Disease
+53,130,246,173,No Heart Disease
+48,124,274,166,Heart Disease
+56,134,409,150,Heart Disease
+42,148,244,178,No Heart Disease
+59,178,270,145,No Heart Disease
+60,158,305,161,Heart Disease
+63,140,195,179,No Heart Disease
+42,120,240,194,No Heart Disease
+66,160,246,120,Heart Disease
+54,192,283,195,Heart Disease
+69,140,254,146,Heart Disease
+50,129,196,163,No Heart Disease
+51,140,298,122,Heart Disease
+43,132,247,143,Heart Disease
+62,138,294,106,Heart Disease
+68,120,211,115,No Heart Disease
+67,100,299,125,Heart Disease
+69,160,234,131,No Heart Disease
+45,138,236,152,No Heart Disease
+50,120,244,162,No Heart Disease
+59,160,273,125,Heart Disease
+50,110,254,159,No Heart Disease
+64,180,325,154,No Heart Disease
+57,150,126,173,No Heart Disease
+64,140,313,133,No Heart Disease
+43,110,211,161,No Heart Disease
+45,142,309,147,Heart Disease
+58,128,259,130,Heart Disease
+50,144,200,126,Heart Disease
+55,130,262,155,No Heart Disease
+62,150,244,154,Heart Disease
+37,120,215,170,No Heart Disease
+38,120,231,182,Heart Disease
+41,130,214,168,No Heart Disease
+66,178,228,165,Heart Disease
+52,112,230,160,Heart Disease
+56,120,193,162,No Heart Disease
+46,105,204,172,No Heart Disease
+46,138,243,152,No Heart Disease
+64,130,303,122,No Heart Disease
+59,138,271,182,No Heart Disease
+41,112,268,172,No Heart Disease
+54,108,267,167,No Heart Disease
+39,94,199,179,No Heart Disease
+53,123,282,95,Heart Disease
+63,108,269,169,Heart Disease
+34,118,210,192,No Heart Disease
+47,112,204,143,No Heart Disease
+67,152,277,172,No Heart Disease
+54,110,206,108,Heart Disease
+66,112,212,132,Heart Disease
+52,136,196,169,No Heart Disease
+55,180,327,117,Heart Disease
+49,118,149,126,Heart Disease
+74,120,269,121,No Heart Disease
+54,160,201,163,No Heart Disease
+54,122,286,116,Heart Disease
+56,130,283,103,Heart Disease
+46,120,249,144,Heart Disease
+49,134,271,162,No Heart Disease
+42,120,295,162,No Heart Disease
+41,110,235,153,No Heart Disease
+41,126,306,163,No Heart Disease
+49,130,269,163,No Heart Disease
+61,134,234,145,Heart Disease
+60,120,178,96,No Heart Disease
+67,120,237,71,Heart Disease
+58,100,234,156,Heart Disease
+47,110,275,118,Heart Disease
+52,125,212,168,Heart Disease
+62,128,208,140,No Heart Disease
+57,110,201,126,No Heart Disease
+58,146,218,105,Heart Disease
+64,128,263,105,No Heart Disease
+51,120,295,157,No Heart Disease
+43,115,303,181,No Heart Disease
+42,120,209,173,No Heart Disease
+67,106,223,142,No Heart Disease
+76,140,197,116,No Heart Disease
+70,156,245,143,No Heart Disease
+57,124,261,141,Heart Disease
+44,118,242,149,No Heart Disease
+58,136,319,152,Heart Disease
+60,150,240,171,No Heart Disease
+44,120,226,169,No Heart Disease
+61,138,166,125,Heart Disease
+42,136,315,125,Heart Disease
+52,128,204,156,Heart Disease
+59,126,218,134,Heart Disease
+40,152,223,181,Heart Disease
+42,130,180,150,No Heart Disease
+61,140,207,138,Heart Disease
+66,160,228,138,No Heart Disease
+46,140,311,120,Heart Disease
+71,112,149,125,No Heart Disease
+59,134,204,162,Heart Disease
+64,170,227,155,No Heart Disease
+66,146,278,152,No Heart Disease
+39,138,220,152,No Heart Disease
+57,154,232,164,Heart Disease
+58,130,197,131,No Heart Disease
+57,110,335,143,Heart Disease
+47,130,253,179,No Heart Disease
+55,128,205,130,Heart Disease
+35,122,192,174,No Heart Disease
+61,148,203,161,Heart Disease
+58,114,318,140,Heart Disease
+58,170,225,146,Heart Disease
+58,125,220,144,No Heart Disease
+56,130,221,163,No Heart Disease
+56,120,240,169,No Heart Disease
+67,152,212,150,Heart Disease
+55,132,342,166,No Heart Disease
+44,120,169,144,Heart Disease
+63,140,187,144,Heart Disease
+63,124,197,136,Heart Disease
+41,120,157,182,No Heart Disease
+59,164,176,90,Heart Disease
+57,140,241,123,Heart Disease
+45,110,264,132,Heart Disease
+68,144,193,141,Heart Disease
+57,130,131,115,Heart Disease
+57,130,236,174,Heart Disease
+38,138,175,173,No Heart Disease

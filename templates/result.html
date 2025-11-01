@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prediction Result</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='result_style.css') }}">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo">Predictor<span>.</span></div>
+    <ul class="nav-links">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/donut">Donut</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <h1>Prediction Result</h1>
+    <p class="result">{{ result }}</p>
+    <a href="/form" class="btn">Predict Again</a>
+  </section>
+</body>
+</html>
